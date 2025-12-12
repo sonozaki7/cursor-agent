@@ -1,6 +1,5 @@
 # Environment variables
 .env
-claude-hfi
 
 
 # Byte-compiled / optimized / DLL files
